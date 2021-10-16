@@ -1,1 +1,17 @@
 el trabajo
+2.- Describe los medios fisicos y de propagacion  de ondas por
+ los que se trasmite la informacion de internet
+ fisicos por cables, fibra optica etc y de propagacion por red 
+ de internet o señal telefonica 
+ 4.- Describe el procedimiento por el cual una cancion de spotify
+ llega al servidor de la compañia a tu celular
+ a traves del protocolo gnutella
+ 6.- En dos párrafos cuéntanos lo que aprendiste sobre
+  encriptación y llaves públicas. 
+el cifrado de llave publica da el la posibilidad de enviar 
+su llave en un canal abierto, la encriptación es 
+un mecanismo de seguridad que deja cambiar un mensaje 
+de modo que su contenido se ilegible.
+8.-¿Cómo funciona la búsqueda de google? 
+ funcoina de llaves publicas y encriptaciones de manera 
+ que hay barra de busqueda que te lleva a distintas llaves
